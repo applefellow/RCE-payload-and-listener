@@ -1,0 +1,5 @@
+tqdm==4.28.1
+playsound==1.2.2
+progressbar33==2.4
+pyfiglet==0.8.post1
+pyglet==1.5.7
